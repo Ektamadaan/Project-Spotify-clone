@@ -45,7 +45,7 @@
 .header-right{
  
     flex: 4;
-    background-image: url("/assets/body-bg.png");
+    background-image: url("/Project-Spotify-clone/assets/body-bg.png");
     color : white;
     padding: 20px;
 }   
@@ -136,7 +136,7 @@
     .header-right{
     
         flex: 4;
-        background-image: url("/assets/body-bg.png");
+        background-image: url("/Project-Spotify-clone/assets/body-bg.png");
 
         background-size: contain;
         color : white;
